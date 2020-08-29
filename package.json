@@ -1,0 +1,22 @@
+{
+  "name": "@bojangles/txt2json",
+  "version": "0.0.1",
+  "description": "Transform txt file into json",
+  "main": "index.js",
+  "author": "Bojan Mazej <bojan.mazej@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "text",
+    "json",
+    "transform",
+    "txt2json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bojangles-m/txt2json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bojangles-m/txt2json/issues"
+  },
+  "homepage": "https://github.com/bojangles-m/txt2json#readme"
+}
